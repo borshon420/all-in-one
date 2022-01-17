@@ -10,10 +10,10 @@
 • After finishing the MCQ. You can see the result with a chart and also see a button called pagination. If you click the button this will take you to the pagination page.\
 • On the pagination page, data will fetch after 10 seconds on the pagination page. Only for the page number 1. You can see 10 data on the page. After 10 seconds another 10 data will be added to the old data on a new page.\
 • If you go to the new page you will see the data of the page. And also data fetch will be stopped for the other pages.\
-• If you click the details button you can see a raw JSON on a new page.\
+• If you click the details button you can see a raw JSON on a new page.
 
 
 ###  Create With...
 • TypeScript\
-• React\
+• React
 
