@@ -32,7 +32,7 @@ const Home: React.FC = () => {
     }
     return (
         <div data-testid="home">
-        <h2>Weather Country Exam Pagenation Application</h2> 
+        <h2>Weather MCQ Pagenation Application</h2> 
         <form onSubmit={handleSubmit}>
         <div>
           <TextField
